@@ -1,3 +1,3 @@
 # GoSteps
 
-Learn Go from golang.org step by step.
+Under the hook step by step.
